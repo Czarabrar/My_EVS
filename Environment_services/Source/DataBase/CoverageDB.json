@@ -1,0 +1,37 @@
+
+{
+    "d2dHousehold": {
+      "target": 108492,
+      "acheived": 82958,
+      "percentage": 76.5
+    },
+    "stackData": {
+      "target":30000,
+        "acheived":15000
+      },
+    "Sweeping_6": {
+      "target": 25,
+      "acheived": 10,
+      "percentage": 40,
+      "stackData": {
+       
+      }
+    },
+    "d2dCommercial": {
+      "target": 7695,
+      "acheived": 7695,
+      "percentage": 100.5,
+      "stackData": {
+     
+      }
+    },
+    "Sweeping": {
+      "target": 60,
+      "acheived": 13,
+      "percentage": 21.7,
+      "stackData": {
+      
+      }
+    }
+  }
+  
